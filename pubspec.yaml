@@ -20,6 +20,9 @@ dependencies:
   safe_device: ^1.1.4
   flutter_inappwebview: ^6.0.0
   device_info_plus: ^9.0.2
+  billdesh_flutter_sdk:
+    path: ../
+
 
 dev_dependencies:
   flutter_lints: ^2.0.0
