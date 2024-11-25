@@ -1,6 +1,7 @@
 name: billDeskSDK
 description: Flutter plugin for BillDesk SDK.
 version: 1.0.3+1
+publish_to: none
 
 environment:
   sdk: ">=2.18.2 <3.0.0"
